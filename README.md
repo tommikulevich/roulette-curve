@@ -1,4 +1,4 @@
-# 〰 Roulette visualization
+# 〰 Roulette Visualization
 
 > ☣ **Warning:** This project was created for educational purposes only. It may contain non-optimal or outdated solutions.
 
