@@ -1,6 +1,6 @@
 # 〰 Roulette Visualization
 
-> ☣ **Warning:** This project was created for educational purposes only. It may contain non-optimal or outdated solutions.
+> ☣ **Warning:** This project was created during my studies for educational purposes only. It may contain non-optimal or outdated solutions.
 
 ### 🗒 About
 **A roulette** is a curve described by a point attached to a given curve (or a figure, e.g. a triangle) as that curve rolls without slipping, along a second given curve that is fixed. 
